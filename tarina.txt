@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 jönssi ja nakki
 pönssi ja kakki
+=======
+jönssi ja nakki, kävelivät torilla.
+>>>>>>> Stashed changes
